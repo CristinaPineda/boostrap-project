@@ -15,4 +15,4 @@ Nesse projeto que simula uma empresa de projetos de arquitetura, usei o boostrap
 
 Desenvolvido em **Mobile first**, conceito de desing responsivo onde o projeto primeiro é desenvolvido para alicações movéis (mobile).
 
-<a href="https://cristinapineda.github.io/boostrap-project/">Página do projeto"</a>
+<a href="https://cristinapineda.github.io/boostrap-project/">Página do projeto</a>
