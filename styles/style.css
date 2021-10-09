@@ -276,7 +276,7 @@
 
 #news-container,
 #contact-container,
-#links-container {
+#stacks-container {
   padding: 0;
   border: 0;
   margin-bottom: 2em;
@@ -297,4 +297,29 @@
 
 #stacks-container a:hover {
   color: #fff;
+}
+
+#footer-bottom {
+  border-top: 1px solid #7a7a7a;
+  padding-top: 2em;
+}
+
+#footer-bottom i {
+  color: #e61e10;
+}
+
+@media (min-width: 768px) {
+  #stacks-container {
+    padding-right: 2em;
+  }
+
+  #news-container {
+    padding-left: 2em;
+    border-left: 1px solid #7a7a7a;
+    border-right: 1px solid #7a7a7a;
+  }
+
+  #contact-container {
+    padding: 0 2em;
+  }
 }
