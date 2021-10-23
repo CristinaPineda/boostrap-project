@@ -1,6 +1,6 @@
 # Bootstrap Project
 
-## Projeto de página de empresa de arquitetura com uso do bootstrap
+## Projeto de página de empresa de arquitetura com uso do Bootstrap
 
 ![image](https://user-images.githubusercontent.com/64100944/136665413-ab15d52b-2d6a-442c-a0fa-c87b6be75616.png)
 
@@ -9,10 +9,10 @@ Bootstrap é um framework CSS para ser utilizado no front-end de aplicações we
 
 <a href="https://getbootstrap.com/">Conheça mais na documentação</a>
 
-Nesse projeto que simula uma empresa de projetos de arquitetura, usei o boostrap como principal gerenciador de estilos,fazendo uso do CSS somente onde o boostrap não chegava para definir estilos próprios.
+Nesse projeto que simula uma empresa de projetos de arquitetura, usei o Boostrap como principal gerenciador de estilos,fazendo uso do CSS somente onde o Boostrap não chegava para definir estilos próprios.
 
 ## Mobile first
 
-Desenvolvido em **Mobile first**, conceito de desing responsivo onde o projeto primeiro é desenvolvido para alicações movéis (mobile).
+Desenvolvido em **Mobile first**, conceito de design responsivo onde o projeto primeiro é desenvolvido para aplicações móveis (mobile).
 
 <a href="https://cristinapineda.github.io/boostrap-project/">Página do projeto</a>
